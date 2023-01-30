@@ -7,6 +7,9 @@ git add ........to add files from working area to Staging Area----done
 git commit ----- moving the files to commited area   --- done 
 <<<<<<< HEAD
 git log .......... done thank you 
+=======
+git log .......... done good job 
+>>>>>>> qa
 git config --global user.email "dev1xample.com" --- done 
 git config --global user.name "dev1"---  
 git branch ------ list the branches 
