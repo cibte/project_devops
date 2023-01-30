@@ -5,7 +5,7 @@ git init ---initiate git  --- repository creation ---done
 git status ---- to check the repsitory status --done 
 git add ........to add files from working area to Staging Area----done  
 git commit ----- moving the files to commited area   --- done 
-git log .......... done 
+git log .......... done thank you 
 git config --global user.email "dev1xample.com" --- done 
 git config --global user.name "dev1"---  
 git branch ------ list the branches 
